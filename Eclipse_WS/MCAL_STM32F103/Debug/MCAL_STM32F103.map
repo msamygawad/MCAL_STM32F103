@@ -1,0 +1,499 @@
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./_src/usart/usart.o
+ .text          0x00000000        0x0 ./_src/usart/usart.o
+ .data          0x00000000        0x0 ./_src/usart/usart.o
+ .bss           0x00000000        0x0 ./_src/usart/usart.o
+ .debug_info    0x00000000       0x21 ./_src/usart/usart.o
+ .debug_abbrev  0x00000000       0x13 ./_src/usart/usart.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/usart/usart.o
+ .debug_macro   0x00000000       0x11 ./_src/usart/usart.o
+ .debug_macro   0x00000000      0xa7e ./_src/usart/usart.o
+ .debug_line    0x00000000       0x4c ./_src/usart/usart.o
+ .debug_str     0x00000000     0x2d0f ./_src/usart/usart.o
+ .comment       0x00000000       0x4a ./_src/usart/usart.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/usart/usart.o
+ .group         0x00000000        0xc ./_src/systick/systick.o
+ .text          0x00000000        0x0 ./_src/systick/systick.o
+ .data          0x00000000        0x0 ./_src/systick/systick.o
+ .bss           0x00000000        0x0 ./_src/systick/systick.o
+ .debug_info    0x00000000       0x21 ./_src/systick/systick.o
+ .debug_abbrev  0x00000000       0x13 ./_src/systick/systick.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/systick/systick.o
+ .debug_macro   0x00000000       0x11 ./_src/systick/systick.o
+ .debug_macro   0x00000000      0xa7e ./_src/systick/systick.o
+ .debug_line    0x00000000       0x50 ./_src/systick/systick.o
+ .debug_str     0x00000000     0x2d13 ./_src/systick/systick.o
+ .comment       0x00000000       0x4a ./_src/systick/systick.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/systick/systick.o
+ .group         0x00000000        0xc ./_src/spi/spi.o
+ .text          0x00000000        0x0 ./_src/spi/spi.o
+ .data          0x00000000        0x0 ./_src/spi/spi.o
+ .bss           0x00000000        0x0 ./_src/spi/spi.o
+ .debug_info    0x00000000       0x21 ./_src/spi/spi.o
+ .debug_abbrev  0x00000000       0x13 ./_src/spi/spi.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/spi/spi.o
+ .debug_macro   0x00000000       0x11 ./_src/spi/spi.o
+ .debug_macro   0x00000000      0xa7e ./_src/spi/spi.o
+ .debug_line    0x00000000       0x48 ./_src/spi/spi.o
+ .debug_str     0x00000000     0x2d0b ./_src/spi/spi.o
+ .comment       0x00000000       0x4a ./_src/spi/spi.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/spi/spi.o
+ .group         0x00000000        0xc ./_src/rcc/rcc.o
+ .text          0x00000000        0x0 ./_src/rcc/rcc.o
+ .data          0x00000000        0x0 ./_src/rcc/rcc.o
+ .bss           0x00000000        0x0 ./_src/rcc/rcc.o
+ .debug_info    0x00000000       0x21 ./_src/rcc/rcc.o
+ .debug_abbrev  0x00000000       0x13 ./_src/rcc/rcc.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/rcc/rcc.o
+ .debug_macro   0x00000000       0x11 ./_src/rcc/rcc.o
+ .debug_macro   0x00000000      0xa7e ./_src/rcc/rcc.o
+ .debug_line    0x00000000       0x48 ./_src/rcc/rcc.o
+ .debug_str     0x00000000     0x2d0b ./_src/rcc/rcc.o
+ .comment       0x00000000       0x4a ./_src/rcc/rcc.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/rcc/rcc.o
+ .group         0x00000000        0xc ./_src/nvic/nvic.o
+ .text          0x00000000        0x0 ./_src/nvic/nvic.o
+ .data          0x00000000        0x0 ./_src/nvic/nvic.o
+ .bss           0x00000000        0x0 ./_src/nvic/nvic.o
+ .debug_info    0x00000000       0x21 ./_src/nvic/nvic.o
+ .debug_abbrev  0x00000000       0x13 ./_src/nvic/nvic.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/nvic/nvic.o
+ .debug_macro   0x00000000       0x11 ./_src/nvic/nvic.o
+ .debug_macro   0x00000000      0xa7e ./_src/nvic/nvic.o
+ .debug_line    0x00000000       0x4a ./_src/nvic/nvic.o
+ .debug_str     0x00000000     0x2d0d ./_src/nvic/nvic.o
+ .comment       0x00000000       0x4a ./_src/nvic/nvic.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/nvic/nvic.o
+ .group         0x00000000        0xc ./_src/i2c/i2c.o
+ .text          0x00000000        0x0 ./_src/i2c/i2c.o
+ .data          0x00000000        0x0 ./_src/i2c/i2c.o
+ .bss           0x00000000        0x0 ./_src/i2c/i2c.o
+ .debug_info    0x00000000       0x21 ./_src/i2c/i2c.o
+ .debug_abbrev  0x00000000       0x13 ./_src/i2c/i2c.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/i2c/i2c.o
+ .debug_macro   0x00000000       0x11 ./_src/i2c/i2c.o
+ .debug_macro   0x00000000      0xa7e ./_src/i2c/i2c.o
+ .debug_line    0x00000000       0x48 ./_src/i2c/i2c.o
+ .debug_str     0x00000000     0x2d0b ./_src/i2c/i2c.o
+ .comment       0x00000000       0x4a ./_src/i2c/i2c.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/i2c/i2c.o
+ .group         0x00000000        0xc ./_src/gpt/gpt.o
+ .text          0x00000000        0x0 ./_src/gpt/gpt.o
+ .data          0x00000000        0x0 ./_src/gpt/gpt.o
+ .bss           0x00000000        0x0 ./_src/gpt/gpt.o
+ .debug_info    0x00000000       0x21 ./_src/gpt/gpt.o
+ .debug_abbrev  0x00000000       0x13 ./_src/gpt/gpt.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/gpt/gpt.o
+ .debug_macro   0x00000000       0x11 ./_src/gpt/gpt.o
+ .debug_macro   0x00000000      0xa7e ./_src/gpt/gpt.o
+ .debug_line    0x00000000       0x48 ./_src/gpt/gpt.o
+ .debug_str     0x00000000     0x2d0b ./_src/gpt/gpt.o
+ .comment       0x00000000       0x4a ./_src/gpt/gpt.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/gpt/gpt.o
+ .group         0x00000000        0xc ./_src/gpio/gpio.o
+ .text          0x00000000        0x0 ./_src/gpio/gpio.o
+ .data          0x00000000        0x0 ./_src/gpio/gpio.o
+ .bss           0x00000000        0x0 ./_src/gpio/gpio.o
+ .debug_info    0x00000000       0x21 ./_src/gpio/gpio.o
+ .debug_abbrev  0x00000000       0x13 ./_src/gpio/gpio.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/gpio/gpio.o
+ .debug_macro   0x00000000       0x11 ./_src/gpio/gpio.o
+ .debug_macro   0x00000000      0xa7e ./_src/gpio/gpio.o
+ .debug_line    0x00000000       0x4a ./_src/gpio/gpio.o
+ .debug_str     0x00000000     0x2d0d ./_src/gpio/gpio.o
+ .comment       0x00000000       0x4a ./_src/gpio/gpio.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/gpio/gpio.o
+ .group         0x00000000        0xc ./_src/eeprom/eeprom.o
+ .text          0x00000000        0x0 ./_src/eeprom/eeprom.o
+ .data          0x00000000        0x0 ./_src/eeprom/eeprom.o
+ .bss           0x00000000        0x0 ./_src/eeprom/eeprom.o
+ .debug_info    0x00000000       0x21 ./_src/eeprom/eeprom.o
+ .debug_abbrev  0x00000000       0x13 ./_src/eeprom/eeprom.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/eeprom/eeprom.o
+ .debug_macro   0x00000000       0x11 ./_src/eeprom/eeprom.o
+ .debug_macro   0x00000000      0xa7e ./_src/eeprom/eeprom.o
+ .debug_line    0x00000000       0x4e ./_src/eeprom/eeprom.o
+ .debug_str     0x00000000     0x2d11 ./_src/eeprom/eeprom.o
+ .comment       0x00000000       0x4a ./_src/eeprom/eeprom.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/eeprom/eeprom.o
+ .group         0x00000000        0xc ./_src/adc/adc.o
+ .text          0x00000000        0x0 ./_src/adc/adc.o
+ .data          0x00000000        0x0 ./_src/adc/adc.o
+ .bss           0x00000000        0x0 ./_src/adc/adc.o
+ .debug_info    0x00000000       0x21 ./_src/adc/adc.o
+ .debug_abbrev  0x00000000       0x13 ./_src/adc/adc.o
+ .debug_aranges
+                0x00000000       0x18 ./_src/adc/adc.o
+ .debug_macro   0x00000000       0x11 ./_src/adc/adc.o
+ .debug_macro   0x00000000      0xa7e ./_src/adc/adc.o
+ .debug_line    0x00000000       0x48 ./_src/adc/adc.o
+ .debug_str     0x00000000     0x2d0b ./_src/adc/adc.o
+ .comment       0x00000000       0x4a ./_src/adc/adc.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/adc/adc.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .group         0x00000000        0xc ./_src/_unit_test/main.o
+ .text          0x00000000        0x0 ./_src/_unit_test/main.o
+ .data          0x00000000        0x0 ./_src/_unit_test/main.o
+ .bss           0x00000000        0x0 ./_src/_unit_test/main.o
+ .text.main     0x00000000        0x2 ./_src/_unit_test/main.o
+ .debug_info    0x00000000       0x94 ./_src/_unit_test/main.o
+ .debug_abbrev  0x00000000       0x49 ./_src/_unit_test/main.o
+ .debug_aranges
+                0x00000000       0x20 ./_src/_unit_test/main.o
+ .debug_ranges  0x00000000       0x10 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000      0x190 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000      0xa7e ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x22 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x5e ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x18 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x94 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x35 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x34 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x16 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x57 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x97 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000      0x341 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0xfd ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x10 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x16 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x43 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x34 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x10 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x58 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000      0x182 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x10 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x6a ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x1c ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x52 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x22 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x10 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x52 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0xd5 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x1c ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x3d ./_src/_unit_test/main.o
+ .debug_macro   0x00000000       0x16 ./_src/_unit_test/main.o
+ .debug_macro   0x00000000      0x16f ./_src/_unit_test/main.o
+ .debug_line    0x00000000      0x343 ./_src/_unit_test/main.o
+ .debug_str     0x00000000     0x6da2 ./_src/_unit_test/main.o
+ .comment       0x00000000       0x4a ./_src/_unit_test/main.o
+ .debug_frame   0x00000000       0x20 ./_src/_unit_test/main.o
+ .ARM.attributes
+                0x00000000       0x2d ./_src/_unit_test/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00005000         xrw
+CCMRAM           0x00000000         0x00000000         xrw
+FLASH            0x08000000         0x00020000         xr
+FLASHB1          0x00000000         0x00000000         xr
+EXTMEMB0         0x00000000         0x00000000         xr
+EXTMEMB1         0x00000000         0x00000000         xr
+EXTMEMB2         0x00000000         0x00000000         xr
+EXTMEMB3         0x00000000         0x00000000         xr
+MEMORY_ARRAY     0x00000000         0x00000000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./_src/usart/usart.o
+LOAD ./_src/systick/systick.o
+LOAD ./_src/spi/spi.o
+LOAD ./_src/rcc/rcc.o
+LOAD ./_src/nvic/nvic.o
+LOAD ./_src/i2c/i2c.o
+LOAD ./_src/gpt/gpt.o
+LOAD ./_src/gpio/gpio.o
+LOAD ./_src/eeprom/eeprom.o
+LOAD ./_src/adc/adc.o
+LOAD ./_src/_unit_test/main.o
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libstdc++_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg_nano.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
+LOAD c:/program files (x86)/gnu arm embedded toolchain/10 2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc_nano.a
+END GROUP
+                0x20005000                __stack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x20005000                _estack = __stack
+                0x00000400                __Main_Stack_Size = 0x400
+                [!provide]                PROVIDE (_Main_Stack_Size = __Main_Stack_Size)
+                0x20004c00                __Main_Stack_Limit = (__stack - __Main_Stack_Size)
+                [!provide]                PROVIDE (_Main_Stack_Limit = __Main_Stack_Limit)
+                0x00000100                _Minimum_Stack_Size = 0x100
+                [!provide]                PROVIDE (_Heap_Begin = _end_noinit)
+                [!provide]                PROVIDE (_Heap_Limit = (__stack - __Main_Stack_Size))
+
+.isr_vector     0x08000000        0x0
+ FILL mask 0xff
+                0x08000000                __vectors_start = ABSOLUTE (.)
+                0x08000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ *(.cfmconfig)
+ *(.after_vectors .after_vectors.*)
+
+.inits          0x08000000       0x28
+                0x08000000                __data_regions_array_start = .
+                0x08000000        0x4 LONG 0x8000028 LOADADDR (.data)
+                0x08000004        0x4 LONG 0x20000000 ADDR (.data)
+                0x08000008        0x4 LONG 0x20000000 (ADDR (.data) + SIZEOF (.data))
+                0x0800000c        0x4 LONG 0x8000028 LOADADDR (.data_CCMRAM)
+                0x08000010        0x4 LONG 0x0 ADDR (.data_CCMRAM)
+                0x08000014        0x4 LONG 0x0 (ADDR (.data_CCMRAM) + SIZEOF (.data_CCMRAM))
+                0x08000018                __data_regions_array_end = .
+                0x08000018                __bss_regions_array_start = .
+                0x08000018        0x4 LONG 0x20000000 ADDR (.bss)
+                0x0800001c        0x4 LONG 0x20000000 (ADDR (.bss) + SIZEOF (.bss))
+                0x08000020        0x4 LONG 0x0 ADDR (.bss_CCMRAM)
+                0x08000024        0x4 LONG 0x0 (ADDR (.bss_CCMRAM) + SIZEOF (.bss_CCMRAM))
+                0x08000028                __bss_regions_array_end = .
+ *(.init)
+ *(.fini)
+                0x08000028                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array_sysinit .preinit_array_sysinit.*)
+ *(.preinit_array_platform .preinit_array_platform.*)
+ *(.preinit_array .preinit_array.*)
+                [!provide]                PROVIDE (__preinit_array_end = .)
+                0x08000028                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                [!provide]                PROVIDE (__init_array_end = .)
+                0x08000028                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+                [!provide]                PROVIDE (__fini_array_end = .)
+
+.flashtext
+ *(.flashtext .flashtext.*)
+
+.text           0x08000028        0x0
+ *(.text .text.*)
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *(vtable)
+ *(.eh_frame*)
+ *(.glue_7)
+ .glue_7        0x08000028        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08000028        0x0 linker stubs
+
+.vfp11_veneer   0x08000028        0x0
+ .vfp11_veneer  0x08000028        0x0 linker stubs
+
+.v4_bx          0x08000028        0x0
+ .v4_bx         0x08000028        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08000028                . = ALIGN (0x4)
+                0x08000028                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x08000028                __exidx_end = .
+                0x08000028                . = ALIGN (0x4)
+                0x08000028                _etext = .
+                0x08000028                __etext = .
+
+.data_CCMRAM    0x00000000        0x0 load address 0x08000028
+ FILL mask 0xff
+ *(.data.CCMRAM .data.CCMRAM.*)
+                0x00000000                . = ALIGN (0x4)
+                0x08000028                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x08000028
+ FILL mask 0xff
+                0x20000000                _sdata = .
+                0x20000000                __data_start__ = .
+ *(.data_begin .data_begin.*)
+ *(.data .data.*)
+ *(.data_end .data_end.*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+                0x20000000                __data_end__ = .
+
+.bss_CCMRAM     0x00000000        0x0
+ *(.bss.CCMRAM .bss.CCMRAM.*)
+
+.bss            0x20000000        0x0
+                0x20000000                __bss_start__ = .
+                0x20000000                _sbss = .
+ *(.bss_begin .bss_begin.*)
+ *(.bss .bss.*)
+ *(COMMON)
+ *(.bss_end .bss_end.*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                __bss_end__ = .
+                0x20000000                _ebss = .
+
+.noinit_CCMRAM
+ *(.noinit.CCMRAM .noinit.CCMRAM.*)
+
+.noinit         0x20000000        0x0
+                0x20000000                _noinit = .
+ *(.noinit .noinit.*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _end_noinit = .
+                [!provide]                PROVIDE (end = _end_noinit)
+                [!provide]                PROVIDE (_end = _end_noinit)
+                [!provide]                PROVIDE (__end = _end_noinit)
+                [!provide]                PROVIDE (__end__ = _end_noinit)
+
+._check_stack   0x20000000      0x100
+                0x20000100                . = (. + _Minimum_Stack_Size)
+ *fill*         0x20000000      0x100 
+
+.b1text
+ *(.b1text)
+ *(.b1rodata)
+ *(.b1rodata.*)
+
+.eb0text
+ *(.eb0text)
+ *(.eb0rodata)
+ *(.eb0rodata.*)
+
+.eb1text
+ *(.eb1text)
+ *(.eb1rodata)
+ *(.eb1rodata.*)
+
+.eb2text
+ *(.eb2text)
+ *(.eb2rodata)
+ *(.eb2rodata.*)
+
+.eb3text
+ *(.eb3text)
+ *(.eb3rodata)
+ *(.eb3rodata.*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+OUTPUT(MCAL_STM32F103.elf elf32-littlearm)
+LOAD linker stubs
