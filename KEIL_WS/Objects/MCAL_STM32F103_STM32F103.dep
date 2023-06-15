@@ -1,45 +1,0 @@
-Dependencies for Project 'MCAL_STM32F103', Target 'STM32F103': (DO NOT MODIFY !)
-CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
-F (..\_src\adc\adc.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
-F (..\_src\adc\interface_adc.h)(0x64887C9E)()
-F (..\_src\adc\private_adc.h)(0x64887C9E)()
-F (..\_src\eeprom\eeprom.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\eeprom.o --omf_browse .\objects\eeprom.crf --depend .\objects\eeprom.d)
-F (..\_src\eeprom\interface_eeprom.h)(0x64887C9E)()
-F (..\_src\eeprom\private_eeprom.h)(0x64887C9E)()
-F (..\_src\gpio\gpio.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
-F (..\_src\gpio\interface_gpio.h)(0x64887C9E)()
-F (..\_src\gpio\private_gpio.h)(0x64887C9E)()
-F (..\_src\gpt\gpt.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\gpt.o --omf_browse .\objects\gpt.crf --depend .\objects\gpt.d)
-F (..\_src\gpt\interface_gpt.h)(0x64887C9E)()
-F (..\_src\gpt\private_gpt.h)(0x64887C9E)()
-F (..\_src\i2c\i2c.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
-F (..\_src\i2c\interface_i2c.h)(0x64887C9E)()
-F (..\_src\i2c\private_i2c.h)(0x64887C9E)()
-F (..\_src\nvic\interface_nvic.h)(0x64887C9E)()
-F (..\_src\nvic\nvic.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\nvic.o --omf_browse .\objects\nvic.crf --depend .\objects\nvic.d)
-F (..\_src\nvic\private_nvic.h)(0x64887C9E)()
-F (..\_src\rcc\interface_rcc.h)(0x64887C9E)()
-F (..\_src\rcc\private_rcc.h)(0x64887C9E)()
-F (..\_src\rcc\rcc.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\rcc.o --omf_browse .\objects\rcc.crf --depend .\objects\rcc.d)
-F (..\_src\spi\interface_spi.h)(0x64887C9E)()
-F (..\_src\spi\private_spi.h)(0x64887C9E)()
-F (..\_src\spi\spi.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
-F (..\_src\systick\interface_systick.h)(0x64887C9E)()
-F (..\_src\systick\private_systick.h)(0x64887C9E)()
-F (..\_src\systick\systick.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\systick.o --omf_browse .\objects\systick.crf --depend .\objects\systick.d)
-F (..\_src\usart\interface_usart.h)(0x64887C9E)()
-F (..\_src\usart\private_usart.h)(0x64887C9E)()
-F (..\_src\usart\usart.c)(0x64887C59)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
-F (..\_src\_unit_test\main.c)(0x64888DCB)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
-I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B186A)
-F (RTE\Device\STM32F103C6\RTE_Device.h)(0x5FC0A44A)()
-F (RTE\Device\STM32F103C6\startup_stm32f10x_ld.s)(0x61ADCDBE)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "STM32F10X_LD SETA 1"--list .\listings\startup_stm32f10x_ld.lst --xref -o .\objects\startup_stm32f10x_ld.o --depend .\objects\startup_stm32f10x_ld.d)
-F (RTE\Device\STM32F103C6\system_stm32f10x.c)(0x61ADCDBE)(--gnu -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\_src-I.\RTE\Device\STM32F103C6-I.\RTE\_STM32F103-IC:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include-IC:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include-D__UVISION_VERSION="529" -D_RTE_ -DSTM32F10X_LD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x61ADBFAE)
-I (.\RTE\_STM32F103\RTE_Components.h)(0x64888D97)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm3.h)(0x626F912E)
-I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B1868)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h)(0x626F912E)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h)(0x626F912E)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armcc.h)(0x626F912E)
-I (C:\Users\mohsa\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x61ADBFAE)
