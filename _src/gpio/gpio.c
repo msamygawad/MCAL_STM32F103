@@ -59,12 +59,12 @@ GPIO_ErrorHandler_Type GPIO_Init(GPIO_Config_Type *GPIO_Pin_CFG)
 
     if (GPIO_Pin_CFG->GPIO_Pin <= GPIO_PIN7 && GPIO_Pin_CFG->GPIO_Pin >= GPIO_PIN0)
     {
-        temp_value = temp_value << GPIO_CRL_Offset * GPIO_Pin_CFG->GPIO_Pin; // shifting the value to the left by 4*pin number to store in the right pin
+        temp_value = temp_value << (GPIO_CRL_Offset * GPIO_Pin_CFG->GPIO_Pin); // shifting the value to the left by 4*pin number to store in the right pin
         GPIO_CRL(GPIO_Pin_CFG->GPIO_Port) |= temp_value;                     // ORing the value with the right register
     }
     else if (GPIO_Pin_CFG->GPIO_Pin <= GPIO_PIN15 && GPIO_Pin_CFG->GPIO_Pin >= GPIO_PIN8)
     {
-        temp_value = temp_value << GPIO_CRL_Offset * (GPIO_Pin_CFG->GPIO_Pin - 8);
+        temp_value = temp_value << (GPIO_CRL_Offset * (GPIO_Pin_CFG->GPIO_Pin - 8));
         GPIO_CRH(GPIO_Pin_CFG->GPIO_Port) |= temp_value;
     }
     else
